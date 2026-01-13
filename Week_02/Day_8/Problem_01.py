@@ -1,4 +1,3 @@
-
 # The Linear Scan (O(N))
 
 def linear_scan(data, target):
