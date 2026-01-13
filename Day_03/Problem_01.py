@@ -1,4 +1,6 @@
-user = None
-
-if user is not None and user == "admin":
-    print("Welcome back, admin!")
+# The Infinite Guardian
+while True:
+    user = input("Enter your password: ")
+    if user == "stop":
+        print("The program stopped.")
+        break
