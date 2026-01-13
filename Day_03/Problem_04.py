@@ -1,3 +1,5 @@
-score = 85
-status = "Pass" if score > 70 else "Fail"
-print(status)
+# The String Walker
+word = "DATA"
+
+for char in word:
+    print(char)  # Print the character "D", "A","T","A" on new line
